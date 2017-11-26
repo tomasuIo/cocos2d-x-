@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="4" height="15" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="label1" tilewidth="50" tileheight="50">
+  <image source="物品和人物/label1.png" width="50" height="50"/>
+ </tileset>
+ <layer name="layer1" width="4" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBxBGAAdiAA9
+  </data>
+ </layer>
+</map>

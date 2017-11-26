@@ -1,0 +1,89 @@
+﻿  AppDelegate.cpp
+  HelloWorldScene.cpp
+  help_scene.cpp
+  Hero.cpp
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Monstermanager.cpp
+  Game_scene.cpp
+  main.cpp
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\appdelegate.cpp(30): warning C4996: 'cocos2d::String': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051): note: 参见“cocos2d::String”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\appdelegate.cpp(42): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\monstermanager.cpp(67): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\monstermanager.cpp(68): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\monstermanager.cpp(69): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\monstermanager.cpp(70): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(39): warning C4996: 'cocos2d::String': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051): note: 参见“cocos2d::String”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(44): warning C4996: 'cocos2d::String': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051): note: 参见“cocos2d::String”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(46): warning C4002: “menu_selector”宏的实参太多
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(40): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(45): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabelttf.h(83): note: 参见“cocos2d::LabelTTF::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\help_scene.cpp(46): warning C4996: 'cocos2d::MenuItemLabel::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(147): note: 参见“cocos2d::MenuItemLabel::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(40): warning C4996: 'cocos2d::String': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051): note: 参见“cocos2d::String”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(42): warning C4002: “menu_selector”宏的实参太多
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(50): warning C4996: 'cocos2d::String': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051): note: 参见“cocos2d::String”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(52): warning C4002: “menu_selector”宏的实参太多
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(41): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabelttf.h(83): note: 参见“cocos2d::LabelTTF::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(42): warning C4996: 'cocos2d::MenuItemLabel::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(147): note: 参见“cocos2d::MenuItemLabel::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(51): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabelttf.h(83): note: 参见“cocos2d::LabelTTF::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\classes\helloworldscene.cpp(52): warning C4996: 'cocos2d::MenuItemLabel::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(147): note: 参见“cocos2d::MenuItemLabel::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(22): warning C4996: 'cocos2d::TMXLayer::tileGIDAt': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cctmxlayer.h(128): note: 参见“cocos2d::TMXLayer::tileGIDAt”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(647): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(507): warning C4996: 'cocos2d::TMXTiledMap::layerNamed': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cctmxtiledmap.h(142): note: 参见“cocos2d::TMXTiledMap::layerNamed”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(662): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(663): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(664): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(665): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(851): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(708): warning C4996: 'cocos2d::TMXTiledMap::layerNamed': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cctmxtiledmap.h(142): note: 参见“cocos2d::TMXTiledMap::layerNamed”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(866): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(867): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(868): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(869): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(1047): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(907): warning C4996: 'cocos2d::TMXTiledMap::layerNamed': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cctmxtiledmap.h(142): note: 参见“cocos2d::TMXTiledMap::layerNamed”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(1062): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(1063): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(1064): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+c:\users\huzehao666\documents\visual studio 2015\projects\finalproject\proj.win32\game_scene.cpp(1065): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  e:\cocos2d\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556): note: 参见“cocos2d::Label::create”的声明
+  复制了 60 个文件
+AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\Finalproject.lib 和对象 C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\Finalproject.exp
+  Finalproject.vcxproj -> C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\Finalproject.exe
+  Finalproject.vcxproj -> C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\Finalproject.pdb (Full PDB)
+  C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\Resources\怪物图\Thumbs.db -> C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\怪物图\Thumbs.db
+  C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\Resources\物品和人物\Thumbs.db -> C:\Users\huzehao666\Documents\Visual Studio 2015\Projects\Finalproject\proj.win32\Debug.win32\物品和人物\Thumbs.db
+  复制了 2 个文件

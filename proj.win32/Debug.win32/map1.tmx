@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="di" tilewidth="50" tileheight="50">
+  <image source="di.PNG" width="54" height="51"/>
+ </tileset>
+ <tileset firstgid="2" name="墙" tilewidth="50" tileheight="50">
+  <image source="墙.PNG" width="54" height="51"/>
+ </tileset>
+ <tileset firstgid="3" name="red" tilewidth="50" tileheight="50">
+  <image source="red.png" width="50" height="50"/>
+ </tileset>
+ <layer name="layer1" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUDxgGAJDXAOI=
+  </data>
+ </layer>
+ <layer name="layer2" width="15" height="15" opacity="0.87">
+  <data encoding="base64" compression="zlib">
+   eJylkEEKAEAIAqX/P3rvoaxp0CU0pwbAlH2t7VN7WA7TNjMInWLYHMqbMqt81+vofszpvU6u+k/DzNgdZifj4k37AZUzAOk=
+  </data>
+ </layer>
+ <layer name="layer3" width="15" height="15" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJylkEEKAEAIAoX+/+e9h7KmQZfQnBoAU/a1tk/tYTlM28wgdIphcyhvyqzyXa+j+zGn9zq56j8NM2N3mJ2MizftB14SAV0=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,46 @@
+{
+  "monster": [
+    /*{
+      "atk": 10000,
+      "def": 10,
+      "hp": 490,
+      "name1": "laotou1.png",
+      "name2": "laotou2.png",
+      
+      "size": 1,
+      "x": 375,
+      "y": 375
+    },
+    {
+      "atk": 10000,
+      "def": 10,
+      "hp": 490,
+      "name1": "shangren1.png",
+      "name2": "shangren2.png",
+      "size": 1,
+      "x": 375,
+      "y": 375
+    },
+    {
+      "atk": 100,
+      "def": 10,
+      "hp": 490,
+      "name1": "shourenbin1.png",
+      "name2": "shourenbin2.png",
+      "size": 1,
+      "x": 375,
+      "y": 375
+    },*/
+    
+    {
+      "atk": 100,
+      "def": 10,
+      "hp": 490,
+      "name1": "weibing1.png",
+      "name2": "weibing2.png",
+      "size": 1,
+      "x": 375,
+      "y": 375
+    }
+  ]
+}
